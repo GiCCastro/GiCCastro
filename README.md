@@ -1,0 +1,3 @@
+- 👋 Olá,sou @GiCCastro
+- 👩‍💻Técnica em Desenvolvimento de Sistemas e cursando Ciência da Computação na Universidade de Marília - UNIMAR;
+- 🔍Em busca de novas oportunidades e conhecimento.

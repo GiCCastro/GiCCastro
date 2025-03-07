@@ -2,10 +2,10 @@
 
 **`Desenvolvedora FrontEnd`**
 
-Eu me chamo Giovana Castro, tenho 20 anos e sou natural de Marília/SP. Concluí o ensino médio na Etec Antônio Devisate, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na Universidade de Marília - UNIMAR. Sou apaixonada por tecnologia e sempre estou desenvolvendo mais o meu conhecimento através de cursos e projetos que você pode conferir no meu portfólio [Portfólio - Giovana Castro](portfolio-giovana-castro.vercel.app)
+Eu me chamo Giovana Castro, tenho 20 anos e sou natural de Marília/SP. Concluí o ensino médio na Etec Antônio Devisate, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na Universidade de Marília - UNIMAR. Sou apaixonada por tecnologia e sempre estou desenvolvendo mais o meu conhecimento através de cursos e projetos que você pode conferir no meu portfólio [Portfólio - Giovana Castro](https://github.com/GiCCastro/portfolio-giovana-castro)
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/giovana-castro-496562238/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/giovana-castro-496562238/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
@@ -14,7 +14,7 @@ Eu me chamo Giovana Castro, tenho 20 anos e sou natural de Marília/SP. Concluí
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
-    <a href="mailto:gicristina.scastro@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:gicristina.scastro@gmail.com">
         <img 
             alt="Gmail" 
             title="Gmail" 

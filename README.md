@@ -4,31 +4,14 @@
 
 Eu me chamo Giovana Castro, tenho 20 anos e sou natural de Marília/SP. Concluí o ensino médio na Etec Antônio Devisate, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na Universidade de Marília - UNIMAR. Sou apaixonada por tecnologia e sempre estou desenvolvendo mais o meu conhecimento através de cursos e projetos que você pode conferir no meu portfólio [Portfólio - Giovana Castro](https://github.com/GiCCastro/portfolio-giovana-castro)
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/giovana-castro-496562238/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            width="30px" 
-            style="padding-right: 10px;"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
-    <a href="mailto:gicristina.scastro@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Gmail" 
-            width="30px" 
-            style="padding-right: 10px;"
-            src="https://img.icons8.com/color/48/gmail-new.png"
-        />
-    </a>
-</p>
-
----
+<div>
+<a href = "mailto:gicristina.scastro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/giovana-castro-496562238/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ### 🤖 Linguagens e Tecnologias
 
+<div>
 <img 
     align="left" 
     alt="HTML"
@@ -61,26 +44,22 @@ Eu me chamo Giovana Castro, tenho 20 anos e sou natural de Marília/SP. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+</div>
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiCCastro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiCCastro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div>
+<a href="https://github.com/GiCCastro">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiCCastro&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GiCCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>

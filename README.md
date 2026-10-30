@@ -2,7 +2,15 @@
 
 **`Desenvolvedora Fullstack`**
 
-Eu me chamo Giovana Castro, tenho 22 anos e sou natural de Marília/SP. Concluí o ensino médio na Etec Antônio Devisate, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciência da Computação na Universidade de Marília - UNIMAR. Sou apaixonada por tecnologia e sempre estou desenvolvendo mais o meu conhecimento através de cursos e projetos que você pode conferir no meu portfólio [Portfólio - Giovana Castro](https://github.com/GiCCastro/portfolio-giovana-castro)
+> Estudante de Ciência da Computação (UNIMAR) | Fullstack Developer | Marília - SP
+
+Natural de Marília/SP, transformo código em interfaces intuitivas e eficientes. Com formação técnica pela Etec Antônio Devisate e cursando bacharelado em Ciência da Computação, dedico meus estudos a unir boas práticas de programação, design responsivo e código limpo.
+
+### 📌 Sobre Mim
+* 🎓 **Acadêmico:** Cursando Ciência da Computação na **Universidade de Marília (UNIMAR)**.
+* 💻 **Base Técnica:** Técnica em Desenvolvimento de Sistemas pela **Etec Antônio Devisate**.
+* 🚀 **Interesses:** Fullstack Development, UI/UX, Componentização e Performance Web.
+* 📂 **Projetos:** Confira os repositórios fixados abaixo para ver meus projetos na prática!
 
 <div>
 <a href = "mailto:gicristina.scastro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -67,6 +75,14 @@ Eu me chamo Giovana Castro, tenho 22 anos e sou natural de Marília/SP. Concluí
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
 />
 </div>
 <br/>

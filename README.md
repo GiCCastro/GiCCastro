@@ -68,10 +68,18 @@ Eu me chamo Giovana Castro, tenho 22 anos e sou natural de Marília/SP. Concluí
 
 <div align="center">
   <a href="https://github.com/GiCCastro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiCCastro&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
+    <img
+      height="180em"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=GiCCastro&layout=compact&langs_count=7&theme=dracula"
+      alt="Top Linguagens"
+    />
   </a>
   <a href="https://github.com/GiCCastro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiCCastro&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img
+      height="180em"
+      src="https://github-stats-extended.vercel.app/api?username=GiCCastro&show_icons=true&theme=dracula&include_all_commits=true"
+      alt="Estatísticas do GitHub"
+    />
   </a>
 </div>
 

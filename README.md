@@ -58,8 +58,6 @@ Eu me chamo Giovana Castro, tenho 22 anos e sou natural de Marília/SP. Concluí
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <div>
 <a href="https://github.com/GiCCastro">
 <img 

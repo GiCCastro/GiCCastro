@@ -7,10 +7,9 @@
 Natural de Marília/SP, transformo código em interfaces intuitivas e eficientes. Com formação técnica pela Etec Antônio Devisate e cursando bacharelado em Ciência da Computação, dedico meus estudos a unir boas práticas de programação, design responsivo e código limpo.
 
 ### 📌 Sobre Mim
-* 🎓 **Acadêmico:** Cursando Ciência da Computação na **Universidade de Marília (UNIMAR)**.
+* 🎓 **Acadêmico:** Cursando Ciência da Computação e pós-graduação em Ciências de Dados e Inteligência Artificial na **Universidade de Marília (UNIMAR)** .
 * 💻 **Base Técnica:** Técnica em Desenvolvimento de Sistemas pela **Etec Antônio Devisate**.
-* 🚀 **Interesses:** Fullstack Development, UI/UX, Componentização e Performance Web.
-* 📂 **Projetos:** Confira os repositórios fixados abaixo para ver meus projetos na prática!
+* 🚀 **Interesses:** Fullstack Development, APIs REST, UI/UX, Componentização e Performance Web.
 
 <div>
 <a href = "mailto:gicristina.scastro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

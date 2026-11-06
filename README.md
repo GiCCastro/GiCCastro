@@ -11,7 +11,7 @@ Desenvolvedora fullstack em formação, com foco em construir soluções web e e
 * 💻 **Base técnica:** Técnica em Desenvolvimento de Sistemas pela Etec Antônio Devisate.
 * 🤖 **Em foco agora:** Construção de soluções com IA, automação de processos e análise de dados com Python.
 * 🚀 **Interesses:** Desenvolvimento fullstack, APIs REST, UI/UX, componentização e performance web.
-* 🛠️ **Projetos recentes:** *system-idp* (sistema fullstack) e *analise_adubacao* (análise de dados em Python).
+* 🛠️ **Projetos recentes:** system-idp (sistema fullstack) e analise_adubacao (análise de dados em Python).
 
 <div>
 <a href = "mailto:gicristina.scastro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

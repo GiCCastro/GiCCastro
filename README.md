@@ -7,7 +7,7 @@
 Desenvolvedora fullstack em formação, com foco em construir soluções web e explorar IA e análise de dados. Unindo código limpo, design responsivo e dados para resolver problemas reais.
 
 ### 📌 Sobre Mim
-* 🎓 **Acadêmico:** Graduanda em Ciência da Computação e pós-graduanda em Ciência de Dados e Inteligência Artificial na UNIMAR.
+* 🎓 **Acadêmico:** Graduanda em Ciência da Computação e disciplinas de pós-graduação em Ciência de Dados e IA (extensão).
 * 💻 **Base técnica:** Técnica em Desenvolvimento de Sistemas pela Etec Antônio Devisate.
 * 🤖 **Em foco agora:** Construção de soluções com IA, automação de processos e análise de dados com Python.
 * 🚀 **Interesses:** Desenvolvimento fullstack, APIs REST, UI/UX, componentização e performance web.

@@ -4,12 +4,14 @@
 
 > Estudante de Ciência da Computação (UNIMAR) | Fullstack Developer | Marília - SP
 
-Natural de Marília/SP, transformo código em interfaces intuitivas e eficientes. Com formação técnica pela Etec Antônio Devisate e cursando bacharelado em Ciência da Computação, dedico meus estudos a unir boas práticas de programação, design responsivo e código limpo.
+Desenvolvedora fullstack em formação, com foco em construir soluções web e explorar IA e análise de dados. Unindo código limpo, design responsivo e dados para resolver problemas reais.
 
 ### 📌 Sobre Mim
-* 🎓 **Acadêmico:** Cursando Ciência da Computação e pós-graduação em Ciências de Dados e Inteligência Artificial na **Universidade de Marília (UNIMAR)** .
-* 💻 **Base Técnica:** Técnica em Desenvolvimento de Sistemas pela **Etec Antônio Devisate**.
-* 🚀 **Interesses:** Fullstack Development, APIs REST, UI/UX, Componentização e Performance Web.
+* 🎓 **Acadêmico:** Graduanda em Ciência da Computação e pós-graduanda em Ciência de Dados e Inteligência Artificial na UNIMAR.
+* 💻 **Base técnica:** Técnica em Desenvolvimento de Sistemas pela Etec Antônio Devisate.
+* 🤖 **Em foco agora:** Construção de soluções com IA, automação de processos e análise de dados com Python.
+* 🚀 **Interesses:** Desenvolvimento fullstack, APIs REST, UI/UX, componentização e performance web.
+* 🛠️ **Projetos recentes:** *system-idp* (sistema fullstack) e *analise_adubacao* (análise de dados em Python).
 
 <div>
 <a href = "mailto:gicristina.scastro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
